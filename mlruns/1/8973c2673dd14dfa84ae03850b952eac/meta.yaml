@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/Raajesh/EMLO/MLFlow/mlruns/1/8973c2673dd14dfa84ae03850b952eac/artifacts
+end_time: 1637653939015
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 8973c2673dd14dfa84ae03850b952eac
+run_uuid: 8973c2673dd14dfa84ae03850b952eac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1637653938871
+status: 3
+tags: []
+user_id: Admin

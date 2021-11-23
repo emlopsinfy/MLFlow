@@ -1,3 +1,5 @@
+Run mlflow ui in the directory where you have mlruns folder.
+
 Refer the notebook.
 
 MLFlow is for creating ML Pipelines, you can create experiments and do model registry too.
