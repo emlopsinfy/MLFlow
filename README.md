@@ -1,5 +1,11 @@
 Run mlflow ui in the directory where you have mlruns folder.
 
+Many machine learning teams use [MLflow](https://www.mlflow.org) for experiment management, deployment, and as a model registry.  If you are already familiar with MLflow, you can integrate it with Evidently to **track the performance of production models**. 
+
+In this case, you use **Evidently to calculate the metrics** and **MLflow to log the results**. You can then access the metrics in the MLflow interface. 
+
+
+
 Refer the notebook.
 
 MLFlow is for creating ML Pipelines, you can create experiments and do model registry too.
